@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://passkeydeveloper.github.io/howtopasskey-dev/sitemap.xml
