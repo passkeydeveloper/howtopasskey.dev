@@ -9,11 +9,9 @@ images: []
 
 ## Intro to passkey
 
-#### What is a passkey?
+### What is a passkey?
 
-#### What is the difference between a passkey and a multi-device credential?
-
-
+### What is the difference between a passkey and a multi-device credential?
 
 <!---
 {{<rawhtml >}}
